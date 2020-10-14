@@ -1,0 +1,12 @@
+/Users/ronaldmunoz/Developer/GitHub/C# Book/Code/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.deps.json
+/Users/ronaldmunoz/Developer/GitHub/C# Book/Code/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.runtimeconfig.json
+/Users/ronaldmunoz/Developer/GitHub/C# Book/Code/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.runtimeconfig.dev.json
+/Users/ronaldmunoz/Developer/GitHub/C# Book/Code/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.dll
+/Users/ronaldmunoz/Developer/GitHub/C# Book/Code/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.pdb
+/Users/ronaldmunoz/Developer/GitHub/C# Book/Code/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.csprojAssemblyReference.cache
+/Users/ronaldmunoz/Developer/GitHub/C# Book/Code/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.AssemblyInfoInputs.cache
+/Users/ronaldmunoz/Developer/GitHub/C# Book/Code/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.AssemblyInfo.cs
+/Users/ronaldmunoz/Developer/GitHub/C# Book/Code/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.csproj.CoreCompileInputs.cache
+/Users/ronaldmunoz/Developer/GitHub/C# Book/Code/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.dll
+/Users/ronaldmunoz/Developer/GitHub/C# Book/Code/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.pdb
+/Users/ronaldmunoz/Developer/GitHub/C# Book/Code/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.genruntimeconfig.cache
